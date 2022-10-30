@@ -14,5 +14,7 @@
             this.cor = cor;
             quantMovimentos = 0;
         }
+
+        
     }
 }
