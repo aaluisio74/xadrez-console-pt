@@ -15,6 +15,10 @@
             quantMovimentos = 0;
         }
 
+        public void incrementarQuantMovimentos()
+        {
+            quantMovimentos++;
+        }
         
     }
 }
